@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Matrix Calculator</string>
+    <string name="tab_a">MATRIX A</string>
+    <string name="tab_b">MATRIX B</string>
+    <string name="tab_result">RESULT</string>
+</resources>

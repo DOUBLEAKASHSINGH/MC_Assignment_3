@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MC_assignment_3" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#049E00</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+    </style>
+</resources>
