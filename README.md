@@ -16,7 +16,6 @@ This README explains how to use both assignment programs: Matrix and WiFi. Every
 - `input_matrix.txt` (optional): example input
 
 **How to compile & run (C)**  
-```bash
 gcc matrix.c -o matrix
 ./matrix
 
